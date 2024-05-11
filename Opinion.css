@@ -1,0 +1,23 @@
+article {
+    color: black;
+    font-size: 30px;
+}
+h2  {
+
+    color: red;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+    color: black;
+}
+ul li a
+{
+    color:blue;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+}
